@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahanna Rachel J</h1>
-<h3 align="center">A passionate engineering student aspiring to be a Data Scientist</h3>
+<h1 align="center" style="font-family: 'Times New Roman', Times, serif;">Hi 👋, I'm Sahanna Rachel John</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahannarachel&label=Profile%20views&color=0e75b6&style=flat" alt="sahannarachel" /> </p>
 
