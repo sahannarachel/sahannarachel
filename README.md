@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahannarachel](https://github.com/sahannarachel)
 
-- 📫 How to reach me **sahannarachel@gmail.com**
+- 📫 How to reach me **sahannarachel@gmail.com** 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-aspClho4wZmb7EQkRqLlgTyS77D5O6S/view?usp=sharing](https://drive.google.com/file/d/1-aspClho4wZmb7EQkRqLlgTyS77D5O6S/view?usp=sharing)
 
